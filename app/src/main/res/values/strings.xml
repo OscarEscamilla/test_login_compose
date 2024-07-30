@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">test-login</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="register">Registro</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="email_label">Correo Electrónico</string>
+    <string name="phone_label">Número de teléfono</string>
+    <string name="email_hint">Ingresar correo electrónico</string>
+    <string name="phone_hint">Ej: +54 12345678</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_confirm_label">Confirmar contraseña</string>
+    <string name="password_hint">Ej: abcABC#123</string>
+    <string name="password_confirm_hint">Reingresar contraseña</string>
+    <string name="paswword_forget">Contraseña olvidada?</string>
+    <string name="remember_me">Recordarme</string>
+    <string name="btn_login_label">Ingresar</string>
+    <string name="btn_signup_label">Registrarse</string>
+    <string name="btn_create_account">Crear cuenta</string>
+    <string name="not_account">No tienes una cuenta?</string>
+    <string name="not_account_signup">Ya tienes una cuenta?</string>
+    <string name="password_recover">Enviar a resetear la contraseña</string>
+    <string name="invalid_email">Correo inválido</string>
+    <string name="invalid_password">Contraseña incorrecta</string>
+    <string name="invalid_phone">Número inválido</string>
+    <string name="weak_password">Contraseña débil</string>">
+    <string name="password_match">La contraseña no coincide</string>">
+</resources>

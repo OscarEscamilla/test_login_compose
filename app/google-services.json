@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112167963258",
+    "project_id": "test-login-7651b",
+    "storage_bucket": "test-login-7651b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112167963258:android:c37735de4b87acfc51c9c3",
+        "android_client_info": {
+          "package_name": "com.racso.test_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlvDNGbsiS2H7M2CQvwWAOfFcj1MffdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
